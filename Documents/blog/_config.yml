@@ -7,7 +7,7 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /blog
-domain_name: ""
+domain_name: "mo-rice.github.io"
 google_analytics: ""
 plugins: [jekyll-paginate]
 
