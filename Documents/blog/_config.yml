@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /kasper
+baseurl: /blog/Documents/blog
 domain_name: ""
 google_analytics: ""
 plugins: [jekyll-paginate]
